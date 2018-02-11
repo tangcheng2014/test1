@@ -6,3 +6,4 @@ try it
 Git has a mutable index called stage
 such a stupid kid
 git remote add origin https://github.com/tangcheng2014/test1
+Creating a new branch is quick.
