@@ -3,4 +3,6 @@ Git is free software.
 Git is free software.
 Git is free software distributed under the GPL.
 try it
-Git has a mutable index called stage.
+Git has a mutable index called stage
+such a stupid kid
+git remote add origin https://github.com/tangcheng2014/test1
